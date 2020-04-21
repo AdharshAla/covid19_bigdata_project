@@ -159,7 +159,7 @@ Contact us for any queries at:
 - adharshala@trentu.ca
 - deepakmandadi@trentu.ca
 - vmattapally@trent.ca
-Project Link: https://github.com/AdharshAla/covid19_bigdata_project.git
+- Project Link: https://github.com/AdharshAla/covid19_bigdata_project.git
 
 ### Acknowledgements
 - [Mongo Setup](https://github.com/nikunjness/mongo-ambari)
