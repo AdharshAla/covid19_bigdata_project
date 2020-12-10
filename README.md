@@ -155,10 +155,8 @@ df.write.mode("overwrite").saveAsTable("bigdatadb.covid19")
 Data Visualization is achieved using Apache Zeppelin at http://127.0.0.1/9995.
 
 ### Contact
-Contact us for any queries at:
+For any queries contact at:
 - adharshala@trentu.ca
-- deepakmandadi@trentu.ca
-- vmattapally@trent.ca
 - Project Link: https://github.com/AdharshAla/covid19_bigdata_project.git
 
 ### Acknowledgements
